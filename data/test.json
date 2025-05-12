@@ -1,5 +1,8 @@
 {
   "name": "test",
   "description": "This is a test experiment",
-  "bps": 100
+  "bps": {
+    "dev": 0,
+    "prod": 0
+  }
 }
