@@ -1,4 +1,4 @@
 package experiments;
 
-public class ExperimentMeta {
-}
+
+public record ExperimentMeta(Experiment experiment) {}
