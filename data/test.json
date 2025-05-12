@@ -2,7 +2,7 @@
   "name": "test",
   "description": "This is a test experiment",
   "bps": {
-    "dev": 0,
+    "dev": 100,
     "prod": 0
   }
 }
