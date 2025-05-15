@@ -2,7 +2,7 @@
   "name": "use_idov_in_string_range",
   "description": "If enabled prefer IODV queries for string range, else use only index",
   "bps": {
-    "dev": 0,
+    "dev": 10000,
     "prod": 0
   }
 }
