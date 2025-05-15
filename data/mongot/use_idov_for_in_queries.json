@@ -1,0 +1,8 @@
+{
+  "name": "use_idov_for_in_queries",
+  "description": "If enabled prefer IODV queries for in queries, else use only index",
+  "bps": {
+    "dev": 100,
+    "prod": 100
+  }
+}
