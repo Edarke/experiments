@@ -10,6 +10,14 @@
 
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
+build
+.gradle/
+# Gradle Wrapper files (committed)
+!/gradle/wrapper/gradle-wrapper.jar
+!/gradle/wrapper/gradle-wrapper.properties
+
+# Ignore everything else in gradle/wrapper except the above
+/gradle/wrapper/*
 
 # Package Files #
 *.jar
