@@ -3,6 +3,6 @@
   "description": "If enabled prefer IODV queries for string range, else use only index",
   "bps": {
     "dev": 10000,
-    "prod": 10000
+    "prod": 0
   }
 }
