@@ -17,7 +17,7 @@ import (
     name: #Ascii & strings.MaxRunes(255) @tag(filename)
     description: #Ascii
     bps: {
-        dev: > 0 & < 10000
+        dev: > 0 & <= 10000
     		prod: > 0 & <= bps.dev
     }
     excluded_clusters?: #ObjectIDSet & <= 100
